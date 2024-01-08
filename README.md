@@ -18,4 +18,8 @@ ATTENTION
   1. Remember to use 8983 port while connecting
   2. Run command to install roles with -c value (to ignore certificares) or install them with your own certificates if { SSL: CERTIFICATE_VERIFY_FAILED } appears.
 
-links: 2nd edition of Ansible for DevOps Jeff Geerling
+-- Links --
+
+https://github.com/geerlingguy/ansible-for-devops/tree/master
+
+2nd edition of Ansible for DevOps Jeff Geerling
